@@ -3,9 +3,9 @@ title: Welcome to Live-Laugh-Lockheed-Martin
 description: Innovating for a Better Tomorrow
 ---
 
-# Welcome to Live-Laugh-Lockheed-Martin
+# Welcome to Live-Laugh-Lockheed
 
-At **Live-Laugh-Lockheed-Martin**, we are dedicated to pushing the boundaries of technology and innovation. Our mission is to create solutions that make the world safer, more connected, and full of possibilities.
+At **Live-Laugh-Lockheed**, we are dedicated to pushing the boundaries of technology and innovation. Our mission is to create solutions that make the world safer, more connected, and full of possibilities.
 
 ## Our Vision
 
