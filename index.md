@@ -26,13 +26,10 @@ The core purpose of this project is to solve the challenge of navigating the wid
 The app will provide students with real-time access to menu items across all campus food locations, filtered by their food preferences. This will simplify decision-making and increase satisfaction by reducing the time and effort spent finding meals they enjoy.
 
 **Key Points of Development for Success**:
-- Unified Menu Data System
 
 - Create a backend system that aggregates menu data from all vendors, allowing real-time updates.
 
 - Organize menu items by location, cuisine type, dietary tags (e.g., vegan, halal), and availability (daily/weekly).
-
-- Role-Based Access & User Profiles
 
 - Users: Can create accounts, set preferences (e.g., exclude allergens, favorite cuisines), and view tailored suggestions.
 
@@ -51,8 +48,6 @@ The app will provide students with real-time access to menu items across all cam
 - Admin Panel
 
 - Create a simple and quick form for vendors to input and update their menus.
-
-- Walkthrough/tutorial for first-time users to understand the system.
 
 ## Join Us
 
