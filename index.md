@@ -61,18 +61,18 @@ to be added
 **Contribution Criteria**
 To determine whether a team member has contributed effectively, we agree to the following
 standards:
-● Completes assigned tasks on time
-● Communicates effectively between group members regarding questions, updates, or
+- Completes assigned tasks on time
+- Communicates effectively between group members regarding questions, updates, or
 progress
-● Collaborates respectfully and constructively with team members
+- Collaborates respectfully and constructively with team members
 
 **Behavioral Criteria**
 We expect all team members to:
-● Give feedback in a respectful and constructive manner
-● Listen actively and accept feedback with a positive attitude
-● Comes to meetings fully prepared
-● Respect agreed-upon roles, deadlines, and expectations
-● Maintain a positive and supportive team environment
+- Give feedback in a respectful and constructive manner
+- Listen actively and accept feedback with a positive attitude
+- Comes to meetings fully prepared
+- Respect agreed-upon roles, deadlines, and expectations
+- Maintain a positive and supportive team environment
 
 **Managing Conflict**
 In the event of conflict or disagreement, the team will:
@@ -84,9 +84,9 @@ In the event of conflict or disagreement, the team will:
 **Failure to Honor the Contract**
 If a team member fails to meet the expectations outlined in this contract, the following steps will
 be taken:
-● First instance: Verbal warning from the team
-● Second instance: A full team discussion highlighting the problem
-● Continued failure: A written report submitted to the instructor
+- First instance: Verbal warning from the team
+- Second instance: A full team discussion highlighting the problem
+- Continued failure: A written report submitted to the instructor
 
 ## Join Us
 
