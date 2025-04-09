@@ -20,12 +20,12 @@ We envision a future where advanced technology and human ingenuity come together
 ## Manoa Project Overview
 **Project Title**: Manoa Munchies
 
-Main Objective:
+**Main Objective**:
 The core purpose of this project is to solve the challenge of navigating the wide variety of food options on the University of Hawai‘i at Mānoa campus. With multiple food vendors—such as Campus Center, food trucks, Manoa Gardens, Paradise Palms, and vending machines—students often struggle to find specific types of food or track when a favorite dish is available.
 
 The app will provide students with real-time access to menu items across all campus food locations, filtered by their food preferences. This will simplify decision-making and increase satisfaction by reducing the time and effort spent finding meals they enjoy.
 
-Key Points of Development for Success:
+**Key Points of Development for Success**:
 - Unified Menu Data System
 
 - Create a backend system that aggregates menu data from all vendors, allowing real-time updates.
@@ -40,25 +40,15 @@ Key Points of Development for Success:
 
 - Admins: Manage user/vendor accounts and oversee system operations.
 
-Core App Features
+**Core App Features**
 
 - Search functionality for cuisine types, dishes, and vendors.
-
-- UI/UX & Front-End Development
-
-- Design intuitive and mobile-friendly pages including:
-
-- Landing Page
 
 - User Home Page
 
 - Vendor Dashboard
 
 - Admin Panel
-
-- User Profile Setup
-
-- Data Input Interface for Vendors
 
 - Create a simple and quick form for vendors to input and update their menus.
 
