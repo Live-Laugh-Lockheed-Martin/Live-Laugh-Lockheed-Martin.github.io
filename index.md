@@ -17,7 +17,7 @@ We envision a future where advanced technology and human ingenuity come together
 - **Cybersecurity**: Safeguarding digital assets with state-of-the-art security solutions.
 - **Website Development**: Designing future-forward digital solutions that connect people, power innovation, and enhance global security.
 
-## Manoa Project Overview
+## Manoa Munchies Overview
 **Project Title**: Manoa Munchies
 
 **Main Objective**:
@@ -48,6 +48,45 @@ The app will provide students with real-time access to menu items across all cam
 - Admin Panel
 
 - Create a simple and quick form for vendors to input and update their menus.
+
+## Manoa Munchies Status
+**Implemented Features**
+So far, we have completed key foundational tasks for the project, including setting up user authentication and deploying the app on Vercel. We’ve also implemented the user preferences feature, allowing users to tailor their food recommendations based on dietary needs or cuisine preferences. Currently, we’re working on enabling vendors to add their menu items and set schedules for when specific dishes will be available.
+
+**Markups**
+
+to be added
+
+## Team Contract
+**Contribution Criteria**
+To determine whether a team member has contributed effectively, we agree to the following
+standards:
+● Completes assigned tasks on time
+● Communicates effectively between group members regarding questions, updates, or
+progress
+● Collaborates respectfully and constructively with team members
+
+**Behavioral Criteria**
+We expect all team members to:
+● Give feedback in a respectful and constructive manner
+● Listen actively and accept feedback with a positive attitude
+● Comes to meetings fully prepared
+● Respect agreed-upon roles, deadlines, and expectations
+● Maintain a positive and supportive team environment
+
+**Managing Conflict**
+In the event of conflict or disagreement, the team will:
+1. Provide an opportunity to listen and understand each side of the disagreement
+2. Allow for time for reflection and change to ideas after discussion
+3. Provide a team vote when needed
+4. Bring the issue up to an outside party whether that be an instructor or teaching assistant
+
+**Failure to Honor the Contract**
+If a team member fails to meet the expectations outlined in this contract, the following steps will
+be taken:
+● First instance: Verbal warning from the team
+● Second instance: A full team discussion highlighting the problem
+● Continued failure: A written report submitted to the instructor
 
 ## Join Us
 
