@@ -51,6 +51,7 @@ The app will provide students with real-time access to menu items across all cam
 
 ## Manoa Munchies Status
 [View our GitHub Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2/views/1)
+
 **Implemented Features**
 So far, we have completed key foundational tasks for the project, including setting up user authentication and deploying the app on Vercel. We’ve also implemented the user preferences feature, allowing users to tailor their food recommendations based on dietary needs or cuisine preferences. Currently, we’re working on enabling vendors to add their menu items and set schedules for when specific dishes will be available.
 
