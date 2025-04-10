@@ -62,7 +62,7 @@ So far, we have completed key foundational tasks for the project, including sett
 
 **Markups**
 
-<img src="images/adminhomepage.png" alt="Admin Home Page"  width="450" height="400"/>
+<img src="images/adminhomepage.png" alt="Admin Home Page"  width="500" height="400"/>
 
 <img src="images/userhomepage.png" alt="User Home Page"  width="600" height="400"/>
 
