@@ -55,13 +55,13 @@ The app will provide students with real-time access to menu items across all cam
 **Implemented Features**
 So far, we have completed key foundational tasks for the project, including setting up user authentication and deploying the app on Vercel. We’ve also implemented the user preferences feature, allowing users to tailor their food recommendations based on dietary needs or cuisine preferences. Currently, we’re working on enabling vendors to add their menu items and set schedules for when specific dishes will be available.
 
-<img src="images/userprofile.png" alt="User Profile"  width="300" height="200"/>
-<img src="images/addvendor.png" alt="Add Vendor"  width="300" height="200"/>
+<img src="images/preferences.png" alt="User Profile"  width="600" height="400"/>
+<img src="images/addvendor.png" alt="Add Vendor"  width="600" height="400"/>
 
 
 **Markups**
-<img src="images/adminhomepage.png" alt="Admin Home Page"  width="300" height="200"/>
-<img src="images/userhomepage.png" alt="User Home Page"  width="300" height="200"/>
+<img src="images/adminhomepage.png" alt="Admin Home Page"  width="600" height="400"/>
+<img src="images/userhomepage.png" alt="User Home Page"  width="600" height="400"/>
 
 ## Team Contract
 **Contribution Criteria**
