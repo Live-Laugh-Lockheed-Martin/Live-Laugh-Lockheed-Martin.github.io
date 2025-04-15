@@ -13,7 +13,6 @@ Our app is deployed and live on Vercel:
 [https://manoa-munchies-nextjs.vercel.app/](https://manoa-munchies-nextjs.vercel.app/)
 
 ## 📸 Screenshots  
-Here is a sneak peaks of our website 
 ![Landing Page](/images/landing%20page.png)
 
 
