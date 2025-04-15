@@ -13,7 +13,9 @@ Our app is deployed and live on Vercel:
 [https://manoa-munchies-nextjs.vercel.app/](https://manoa-munchies-nextjs.vercel.app/)
 
 ## 📸 Screenshots  
-*Screenshots will be added soon.*
+Here is a sneak peaks of our website 
+![Landing Page](/images/landing%20page.png)
+
 
 ## ✅ Milestone 1 (M1) Project Page  
 [View M1 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2)
