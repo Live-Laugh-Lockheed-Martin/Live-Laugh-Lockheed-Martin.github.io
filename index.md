@@ -65,6 +65,7 @@ The app will provide students with real-time access to menu items across all cam
 - Create a simple and quick form for vendors to input and update their menus.
 
 ## 📊 Manoa Munchies Status
+[View our GitHub Repository]([https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2/views/1](https://github.com/eibanezUH/Manoa-Munchies-Nextjs))
 [View our GitHub Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2/views/1)
 
 **Implemented Features**
