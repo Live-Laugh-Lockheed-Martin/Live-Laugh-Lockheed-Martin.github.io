@@ -20,9 +20,9 @@ description: Innovating for a Better Tomorrow
 - [Join Us](#join-us)
 - [Contact Us](#contact-us)
 
-At **Live-Laugh-Lockheed-Martin**, we are dedicated to pushing the boundaries of technology and innovation. Our mission is to create solutions that make the world safer, more connected, and full of possibilities.
-
 ## 🌍 Our Vision
+
+At **Live-Laugh-Lockheed-Martin**, we are dedicated to pushing the boundaries of technology and innovation. Our mission is to create solutions that make the world safer, more connected, and full of possibilities.
 
 We envision a future where advanced technology and human ingenuity come together to solve the world's most pressing challenges. From aerospace and defense to everyday life, our teams are committed to excellence and innovation.
 
