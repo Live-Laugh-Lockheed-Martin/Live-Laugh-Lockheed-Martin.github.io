@@ -66,36 +66,25 @@ So far, we have completed key foundational tasks for the project, including sett
 
 <img src="images/VendorSchedule.png" alt="Vendor Schedule"  width="500" height="400"/>
 
-## Team Contract
-**Contribution Criteria**
-To determine whether a team member has contributed effectively, we agree to the following
-standards:
-- Completes assigned tasks on time
-- Communicates effectively between group members regarding questions, updates, or
-progress
-- Collaborates respectfully and constructively with team members
+## 📝 Team Contract  
+[View our Team Contract](https://docs.google.com/document/d/1re1sDmqgrhCbOyjak1mA5vgmcGx4IPJbKRek7SYEZfA/edit?tab=t.0)
 
-**Behavioral Criteria**
-We expect all team members to:
-- Give feedback in a respectful and constructive manner
-- Listen actively and accept feedback with a positive attitude
-- Comes to meetings fully prepared
-- Respect agreed-upon roles, deadlines, and expectations
-- Maintain a positive and supportive team environment
+## 🚀 Deployment  
+Our app is deployed and live on Vercel:  
+[https://manoa-munchies-nextjs.vercel.app/](https://manoa-munchies-nextjs.vercel.app/)
 
-**Managing Conflict**
-In the event of conflict or disagreement, the team will:
-1. Provide an opportunity to listen and understand each side of the disagreement
-2. Allow for time for reflection and change to ideas after discussion
-3. Provide a team vote when needed
-4. Bring the issue up to an outside party whether that be an instructor or teaching assistant
+## 📸 Screenshots  
+![Landing Page](/images/landing%20page.png)
 
-**Failure to Honor the Contract**
-If a team member fails to meet the expectations outlined in this contract, the following steps will
-be taken:
-- First instance: Verbal warning from the team
-- Second instance: A full team discussion highlighting the problem
-- Continued failure: A written report submitted to the instructor
+
+## ✅ Milestone 1 (M1) Project Page  
+[View M1 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2)
+
+## 🛠️ Milestone 2 (M2) Project Page  
+*Not available at this time.*
+
+## 📘 GitHub Hosting Guidelines  
+This page adheres to the [GitHub hosting guidelines](https://courses.ics.hawaii.edu/ics314s24/morea/project/milestone1-ghpages.html).
 
 ## Join Us
 
