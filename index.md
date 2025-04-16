@@ -68,6 +68,37 @@ The app will provide students with real-time access to menu items across all cam
 [View our GitHub Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2/views/1)
 
 **Implemented Features**
+<!-- Add Menu Item Page -->
+<p>This page allows vendors to add new menu items with details like name, description, price, and ingredients.</p>
+<img src="images/AddMenuItem.png" alt="Add Menu Item" width="450" height="400"/>
+
+<!-- Add Vendor Page -->
+<p>The Add Vendor page is where new vendors can register their business and provide contact information.</p>
+<img src="images/addVendor.png" alt="Add Vendor" width="450" height="400"/>
+
+<!-- Admin Dashboard -->
+<p>The Admin Dashboard provides admin users with an overview of platform activity and vendor management tools.</p>
+<img src="images/adminDash.png" alt="Admin Dashboard" width="450" height="400"/>
+
+<!-- Landing Page -->
+<p>The Landing Page serves as the homepage of the application, showcasing its purpose and guiding users to sign in or sign up.</p>
+<img src="images/landing page.png" alt="Landing Page" width="450" height="400"/>
+
+<!-- Sign In Page -->
+<p>The Sign In page allows registered users to access their accounts by entering their login credentials.</p>
+<img src="images/signin.png" alt="Sign In" width="450" height="400"/>
+
+<!-- Sign Up Page -->
+<p>New users can create an account on the Sign Up page by providing their name, email, and password.</p>
+<img src="images/signup.png" alt="Sign Up" width="450" height="400"/>
+
+<!-- Vendor Dashboard -->
+<p>The Vendor Dashboard gives vendors a centralized view of their menu items, schedule, and business performance.</p>
+<img src="images/VendorDash.png" alt="Vendor Dashboard" width="450" height="400"/>
+
+<!-- Vendor Schedule Page -->
+<p>This page allows vendors to manage and update their availability or scheduling for specific days.</p>
+<img src="images/vendorSchedule.png" alt="Vendor Schedule" width="450" height="400"/>
 
 ## 📝 Team Contract  
 [View our Team Contract](https://docs.google.com/document/d/1re1sDmqgrhCbOyjak1mA5vgmcGx4IPJbKRek7SYEZfA/edit?tab=t.0)
