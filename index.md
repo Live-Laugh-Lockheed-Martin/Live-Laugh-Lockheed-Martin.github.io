@@ -100,7 +100,7 @@ The app will provide students with real-time access to menu items across all cam
 
 <!-- Vendor Schedule Page -->
 <p>This page allows vendors to manage and update their availability or scheduling for specific days.</p>
-<img src="images/vendorSchedule.png" alt="Vendor Schedule" width="850" height="400"/>
+<img src="images/VendorSchedule.png" alt="Vendor Schedule" width="850" height="400"/>
 
 ## 📝 Team Contract  
 [View our Team Contract](https://docs.google.com/document/d/1re1sDmqgrhCbOyjak1mA5vgmcGx4IPJbKRek7SYEZfA/edit?tab=t.0)
