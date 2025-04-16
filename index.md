@@ -5,6 +5,21 @@ description: Innovating for a Better Tomorrow
 
 # Welcome to Live-Laugh-Lockheed-Martin
 
+## 📑 Table of Contents
+- [Welcome to Live-Laugh-Lockheed-Martin](#welcome-to-live-laugh-lockheed-martin)
+- [Our Vision](#our-vision)
+- [What We Do](#what-we-do)
+- [Manoa Munchies Overview](#manoa-munchies-overview)
+- [Manoa Munchies Status](#manoa-munchies-status)
+- [📝 Team Contract](#-team-contract)
+- [🚀 Deployment](#-deployment)
+- [📸 Screenshots](#-screenshots)
+- [✅ Milestone 1 (M1) Project Page](#-milestone-1-m1-project-page)
+- [🛠️ Milestone 2 (M2) Project Page](#️-milestone-2-m2-project-page)
+- [📘 GitHub Hosting Guidelines](#-github-hosting-guidelines)
+- [Join Us](#join-us)
+- [Contact Us](#contact-us)
+
 At **Live-Laugh-Lockheed-Martin**, we are dedicated to pushing the boundaries of technology and innovation. Our mission is to create solutions that make the world safer, more connected, and full of possibilities.
 
 ## Our Vision
