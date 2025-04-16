@@ -68,18 +68,6 @@ The app will provide students with real-time access to menu items across all cam
 [View our GitHub Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2/views/1)
 
 **Implemented Features**
-So far, we have completed key foundational tasks for the project, including setting up user authentication and deploying the app on Vercel. We’ve also implemented the user preferences feature, allowing users to tailor their food recommendations based on dietary needs or cuisine preferences. Currently, we’re working on enabling vendors to add their menu items and set schedules for when specific dishes will be available.
-
-<img src="images/preferences.png" alt="User Profile"  width="450" height="400"/>
-
-<img src="images/addvendor.png" alt="Add Vendor"  width="450" height="400"/>
-
-
-**Markups**
-
-<img src="images/adminhomepage.png" alt="Admin Home Page"  width="500" height="400"/>
-
-<img src="images/VendorSchedule.png" alt="Vendor Schedule"  width="500" height="400"/>
 
 ## 📝 Team Contract  
 [View our Team Contract](https://docs.google.com/document/d/1re1sDmqgrhCbOyjak1mA5vgmcGx4IPJbKRek7SYEZfA/edit?tab=t.0)
