@@ -70,7 +70,7 @@ The app will provide students with real-time access to menu items across all cam
 **Implemented Features**
 <!-- Add Menu Item Page -->
 <p>This page allows vendors to add new menu items with details like name, description, price, and ingredients.</p>
-<img src="images/AddMenuItem.png" alt="Add Menu Item" width="8500" height="400"/>
+<img src="images/AddMenuItem.png" alt="Add Menu Item" width="850" height="400"/>
 
 <!-- Add Vendor Page -->
 <p>The Add Vendor page is where new vendors can register their business and provide contact information.</p>
@@ -86,7 +86,7 @@ The app will provide students with real-time access to menu items across all cam
 
 <!-- Sign In Page -->
 <p>The Sign In page allows registered users to access their accounts by entering their login credentials.</p>
-<img src="images/signin.png" alt="Sign In" width="850" height="400"/>
+<img src="images/signin.png" alt="Sign In" width="950" height="400"/>
 
 <!-- Sign Up Page -->
 <p>New users can create an account on the Sign Up page by providing their name, email, and password.</p>
@@ -106,10 +106,6 @@ The app will provide students with real-time access to menu items across all cam
 ## 🌐 Deployment 
 Our app is deployed and live on Vercel:  
 [https://manoa-munchies-nextjs.vercel.app/](https://manoa-munchies-nextjs.vercel.app/)
-
-## 📸 Screenshots  
-![Landing Page](/images/landing%20page.png)
-
 
 ## ✅ Milestone 1 (M1) Project Page  
 [View M1 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2)
