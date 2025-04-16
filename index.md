@@ -3,7 +3,7 @@ title: Welcome to Live-Laugh-Lockheed-Martin
 description: Innovating for a Better Tomorrow
 ---
 
-# Welcome to Live-Laugh-Lockheed-Martin
+# 🚀 Welcome to Live-Laugh-Lockheed-Martin
 
 ## 📑 Table of Contents
 - [Welcome to Live-Laugh-Lockheed-Martin](#welcome-to-live-laugh-lockheed-martin)
@@ -22,17 +22,17 @@ description: Innovating for a Better Tomorrow
 
 At **Live-Laugh-Lockheed-Martin**, we are dedicated to pushing the boundaries of technology and innovation. Our mission is to create solutions that make the world safer, more connected, and full of possibilities.
 
-## Our Vision
+## 🌍 Our Vision
 
 We envision a future where advanced technology and human ingenuity come together to solve the world's most pressing challenges. From aerospace and defense to everyday life, our teams are committed to excellence and innovation.
 
-## What We Do
+## 🛠️ What We Do
 
 - **Aerospace Engineering**: Developing cutting-edge aircraft and spacecraft.
 - **Cybersecurity**: Safeguarding digital assets with state-of-the-art security solutions.
 - **Website Development**: Designing future-forward digital solutions that connect people, power innovation, and enhance global security.
 
-## Manoa Munchies Overview
+## 🍱 Manoa Munchies Overview
 **Project Title**: Manoa Munchies
 
 **Main Objective**:
@@ -64,7 +64,7 @@ The app will provide students with real-time access to menu items across all cam
 
 - Create a simple and quick form for vendors to input and update their menus.
 
-## Manoa Munchies Status
+## 📊 Manoa Munchies Status
 [View our GitHub Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2/views/1)
 
 **Implemented Features**
@@ -84,7 +84,7 @@ So far, we have completed key foundational tasks for the project, including sett
 ## 📝 Team Contract  
 [View our Team Contract](https://docs.google.com/document/d/1re1sDmqgrhCbOyjak1mA5vgmcGx4IPJbKRek7SYEZfA/edit?tab=t.0)
 
-## 🚀 Deployment  
+## 🌐 Deployment 
 Our app is deployed and live on Vercel:  
 [https://manoa-munchies-nextjs.vercel.app/](https://manoa-munchies-nextjs.vercel.app/)
 
@@ -95,17 +95,17 @@ Our app is deployed and live on Vercel:
 ## ✅ Milestone 1 (M1) Project Page  
 [View M1 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2)
 
-## 🛠️ Milestone 2 (M2) Project Page  
+## 🧱 Milestone 2 (M2) Project Page
 *Not available at this time.*
 
 ## 📘 GitHub Hosting Guidelines  
 This page adheres to the [GitHub hosting guidelines](https://courses.ics.hawaii.edu/ics314s24/morea/project/milestone1-ghpages.html).
 
-## Join Us
+## 💼 Join Us
 
 Are you passionate about innovation and technology? We're always looking for talented individuals to join our team. [Explore Careers](#)
 
-## Contact Us
+## 📬 Contact Us
 
 Have questions or need more information? Reach out to us at [contact@livelaughlockheedmartin.com](mailto:contact@livelaughlockheedmartin.com).
 
