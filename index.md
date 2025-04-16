@@ -74,15 +74,15 @@ The app will provide students with real-time access to menu items across all cam
 
 <!-- Add Vendor Page -->
 <p>The Add Vendor page is where new vendors can register their business and provide contact information.</p>
-<img src="images/addVendor.png" alt="Add Vendor" width="450" height="400"/>
+<img src="images/addVendor.png" alt="Add Vendor" width="550" height="400"/>
 
 <!-- Admin Dashboard -->
 <p>The Admin Dashboard provides admin users with an overview of platform activity and vendor management tools.</p>
-<img src="images/adminDash.png" alt="Admin Dashboard" width="450" height="400"/>
+<img src="images/adminDash.png" alt="Admin Dashboard" width="650" height="400"/>
 
 <!-- Landing Page -->
 <p>The Landing Page serves as the homepage of the application, showcasing its purpose and guiding users to sign in or sign up.</p>
-<img src="images/landing page.png" alt="Landing Page" width="450" height="400"/>
+<img src="images/landing page.png" alt="Landing Page" width="750" height="400"/>
 
 <!-- Sign In Page -->
 <p>The Sign In page allows registered users to access their accounts by entering their login credentials.</p>
