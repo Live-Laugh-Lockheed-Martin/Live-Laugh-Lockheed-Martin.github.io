@@ -108,7 +108,7 @@ Users can edit their food preferences and aversions here. Each entry appears as 
 
 ## Testing Guidelines
 <img src="images/testing1.png" alt="Playwright test summary with 9 tests passed" width="700" height="200"/>
-<img src="images/testing2.png" alt="Playwright test report showing tests run across Chromium, Firefox, and WebKit" width="1080" height="770"/>
+<img src="images/testing2.png" alt="Playwright test report showing tests run across Chromium, Firefox, and WebKit" width="360" height="257"/>
 
 ## 📝 Team Contract
 [View our Team Contract](https://docs.google.com/document/d/1re1sDmqgrhCbOyjak1mA5vgmcGx4IPJbKRek7SYEZfA/edit?tab=t.0)
