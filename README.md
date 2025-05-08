@@ -1,6 +1,6 @@
-# 🍽️ Manoa Munchies – Project Home Page
+# 🍽️ Campus Cravings – Project Home Page
 
-Welcome to the official GitHub page for **Manoa Munchies**, our ICS 314 Spring 2025 project. This page provides links and resources related to the development and progress of our application.
+Welcome to the official GitHub page for **Campus Cravings**, our ICS 314 Spring 2025 project. This page provides links and resources related to the development and progress of our application.
 
 ## 🔗 GitHub Organization  
 [Live-Laugh-Lockheed-Martin GitHub Organization](https://github.com/Live-Laugh-Lockheed-Martin)
