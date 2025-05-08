@@ -5,7 +5,7 @@ description: Innovating for a Better Tomorrow
 
 # 🚀 Welcome to Live-Laugh-Lockheed-Martin
 
-![CI Status](https://github.com/Live-Laugh-Lockheed-Martin/Manoa-Munchies-Nextjs/workflows/ci-Manoa-Munchies-Nextjs/badge.svg)
+![CI Status](https://github.com/Live-Laugh-Lockheed-Martin/Manoa-Munchies-Nextjs/workflows/ci.yml/badge.svg)
 
 ## Table of Contents
 - [Our Vision](#our-vision)
