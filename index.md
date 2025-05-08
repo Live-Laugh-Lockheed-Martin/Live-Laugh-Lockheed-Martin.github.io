@@ -7,7 +7,7 @@ description: Innovating for a Better Tomorrow
 
 ![CI Status](https://github.com/Live-Laugh-Lockheed-Martin/Manoa-Munchies-Nextjs/actions/workflows/ci.yml/badge.svg)
 
-## 📑 Table of Contents
+## Table of Contents
 - [Our Vision](#our-vision)
 - [What We Do](#what-we-do)
 - [Overview](#overview)
@@ -171,6 +171,8 @@ Are you passionate about innovation and technology? We're always looking for tal
 
 ## Contact Us
 Have questions or need more information? Reach out to us at [contact@livelaughlockheedmartin.com](mailto:contact@livelaughlockheedmartin.com).
+
+[Back to the top](#table-of-contents)
 
 ---
 
