@@ -8,7 +8,6 @@ description: Innovating for a Better Tomorrow
 ![CI Status](https://github.com/Live-Laugh-Lockheed-Martin/Manoa-Munchies-Nextjs/actions/workflows/ci.yml/badge.svg)
 
 ## 📑 Table of Contents
-- [Welcome to Live-Laugh-Lockheed-Martin](#welcome-to-live-laugh-lockheed-martin)
 - [Our Vision](#our-vision)
 - [What We Do](#what-we-do)
 - [Overview](#overview)
@@ -16,7 +15,6 @@ description: Innovating for a Better Tomorrow
 - [User Guide](#user-guide)
 - [Team Contract](#team-contract)
 - [Deployment](#deployment)
-- [Screenshots](#screenshots)
 - [Milestone 1 (M1) Project Page](#milestone-1-m1-project-page)
 - [Milestone 2 (M2) Project Page](#milestone-2-m2-project-page)
 - [Milestone 3 (M3) Project Page](#milestone-3-m3-project-page)
@@ -24,17 +22,17 @@ description: Innovating for a Better Tomorrow
 - [Join Us](#join-us)
 - [Contact Us](#contact-us)
 
-## 🌍 Our Vision
+## Our Vision
 At **Live-Laugh-Lockheed-Martin**, we are dedicated to pushing the boundaries of technology and innovation. Our mission is to create solutions that make the world safer, more connected, and full of possibilities.
 
 We envision a future where advanced technology and human ingenuity come together to solve the world's most pressing challenges. From aerospace and defense to everyday life, our teams are committed to excellence and innovation.
 
-## 🛠️ What We Do
+## What We Do
 - **Aerospace Engineering**: Developing cutting-edge aircraft and spacecraft.
 - **Cybersecurity**: Safeguarding digital assets with state-of-the-art security solutions.
 - **Website Development**: Designing future-forward digital solutions that connect people, power innovation, and enhance global security.
 
-## 🍱 Overview
+## Overview
 **Project Title**: Campus Cravings
 
 **Main Objective**:
@@ -56,7 +54,7 @@ The app will provide students with real-time access to menu items across all cam
 - Admin Panel
 - Create a simple and quick form for vendors to input and update their menus.
 
-## 📊 Status
+## Status
 The project is finished.
 [View our GitHub Repository](https://github.com/eibanezUH/Manoa-Munchies-Nextjs)
 View our project boarrds:
@@ -83,11 +81,11 @@ View our project boarrds:
 <img src="images/m3/user-food-available.png" alt="User Available Menu page" width="800" height="450" />
 <img src="images/m3/user-food-available-show-details.png" alt="User Available Menu page showing details" width="800" height="450" />
 
-#### ⭐ Top Picks
+#### Top Picks
 <p>The "Top Picks For You" page shows a curated list of menu items tailored to the user's food preferences and aversions or if the item is marked as a special. It includes search functionality and links to go back to the full list or update preferences.</p>
 <img src="images/m3/user-top-picks.png" alt="User Top Picks page" width="800" height="450" />
 
-#### ⚙️ User Profile
+#### User Profile
 <p>Users can edit their food preferences and aversions here. Each entry appears as a tag that can be removed. They can add new tags (e.g., "Hawaiian", "Chinese") and save to update what appears on the Top Picks page.</p>
 <img src="images/m3/user-profile.png" alt="User Profile page" width="800" height="450" />
 
@@ -96,11 +94,11 @@ View our project boarrds:
 <p>Vendors can view their profile information on the card to the left and any menu items they have created in the table to the right. By clicking on a table row, they can expand the box to show the description, price, ingredients and special scedule status of the item. Additionally, they can click expand all or hide all to display/hide information.</p>
 <img src="images/m3/vendor-dashboard.png" alt="Vendor Dashboard page" width="800" height="450" />
 
-#### 🛠️ Update Vendor Profile
+#### Update Vendor Profile
 <p>Vendors can update their business name, location, cuisine types (comma-separated), and operating hours for each day of the week. Time inputs make it easy to manage availability. This ensures accurate visibility for users browsing by vendor or filtering by open hours.</p>
 <img src="images/m3/vendor-update-profile.png" alt="Update Vendor Profile page" width="800" height="450" />
 
-#### ➕ Add Menu Item
+#### Add Menu Item
 <p>Vendors can add a new menu item by filling out details such as name, description, price, ingredients, category, and cuisine. Special days can also be tagged using checkboxes for each day of the week. This page ensures that all vendor entries are clear, searchable, and updated in real time.</p>
 <img src="images/m3/vendor-add-menu-items.png" alt="Add Menu Item page" width="800" height="450" />
 
@@ -149,29 +147,29 @@ NEXTAUTH_URL=http://localhost:3000
 
 3. Start Next.js using npm run dev, and check http://localhost:3000 (and the console) to ensure that the new landing page displays correctly.
 
-## 📝 Team Contract
+## Team Contract
 [View our Team Contract](https://docs.google.com/document/d/1re1sDmqgrhCbOyjak1mA5vgmcGx4IPJbKRek7SYEZfA/edit?tab=t.0)
 
-## 🌐 Deployment
+## Deployment
 Our app is deployed and live on Vercel:  
 [https://manoa-munchies-nextjs.vercel.app/](https://manoa-munchies-nextjs.vercel.app/)
 
-## ✅ Milestone 1 (M1) Project Page
+## Milestone 1 (M1) Project Page
 [View M1 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2)
 
-## 🧱 Milestone 2 (M2) Project Page
+## Milestone 2 (M2) Project Page
 [View M2 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/3)
 
-## 📦 Milestone 3 (M3) Project Page
+## Milestone 3 (M3) Project Page
 [View M3 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/4)
 
-## 📘 GitHub Hosting Guidelines
+## GitHub Hosting Guidelines
 This page adheres to the [GitHub hosting guidelines](https://courses.ics.hawaii.edu/ics314s24/morea/project/milestone1-ghpages.html).
 
-## 💼 Join Us
+## Join Us
 Are you passionate about innovation and technology? We're always looking for talented individuals to join our team. [Explore Careers](#)
 
-## 📬 Contact Us
+## Contact Us
 Have questions or need more information? Reach out to us at [contact@livelaughlockheedmartin.com](mailto:contact@livelaughlockheedmartin.com).
 
 ---
