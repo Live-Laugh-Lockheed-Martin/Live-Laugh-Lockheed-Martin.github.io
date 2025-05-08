@@ -116,8 +116,8 @@ View our project boarrds:
 <img src="images/m3/admin-add-vendor.png" alt="Admin Add Vendor page" width="800" height="450" />
 
 ## Testing Guidelines
-<img src="images/testing1.png" alt="Playwright test summary with 9 tests passed" width="700" height="200"/>
-<img src="images/testing2.png" alt="Playwright test report showing tests run across Chromium, Firefox, and WebKit" width="360" height="257"/>
+<img src="images/playwright-cmd.png" alt="Playwright test summary with 9 tests passed" width="700" height="200"/>
+<img src="images/playwright-test-report.png" alt="Playwright test report showing tests run across Chromium, Firefox, and WebKit" width="360" height="257"/>
 
 ## Community Feedback
 The website was demonstrated to 5 students from UH Manoa and feedback was received via word-of-mouth. All interviewees reflected overall positive responses. One student stated that it was helpful to know the operating times of the food trucks in food truck row as they frequent the food trucks regularly. Another student said that the user dashboard and filter system was really clean and she could see herself using the app to pick out what she wanted to eat for the day. Another student expressed his desire to see support for vending machines added should the project be continued. He said that sometimes, vending machines are down or out of stock on certain food items and a way to know that before hand would be nice. Yet another student says that he sometimes stays afterschool late and expressed his interest to see other food places nearby campus added to the list of vendors, citing that it would be helpful to see what is there to eat in the evening.
