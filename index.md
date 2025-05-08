@@ -126,26 +126,28 @@ The website was demonstrated to 5 students from UH Manoa and feedback was receiv
 This guide will show how to download, install, run, and modify the project. The project will not be downloaded with any 
 
 1. Clone the repo to your local machine, run npm install and then npm run dev to bring it up.
-2. Copy the following into your .env file and run npx prisma migrate dev, then npx prisma db seed to create the database and populate the tables.
+2. Create a postgreSQL database with createdb [database name].
+3. Create an .env file and copy the following into it:
 
-NEXT_PUBLIC_SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4b3BwdW1hbW92ZWFqbWJvY3p0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM4MDcyMTUsImV4cCI6MjA1OTM4MzIxNX0.vFBRySS_lljwy2EADU2kIALAZjasiubwHOmPspF7CA8"
-NEXT_PUBLIC_SUPABASE_URL="https://pxoppumamoveajmboczt.supabase.co"
-POSTGRES_DATABASE="postgres"
-POSTGRES_HOST="db.pxoppumamoveajmboczt.supabase.co"
-POSTGRES_PASSWORD="IibxWp51iWHIimEY"
-POSTGRES_PRISMA_URL="postgres://postgres.pxoppumamoveajmboczt:IibxWp51iWHIimEY@aws-0-us-east-1.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x&pgbouncer=true"
-POSTGRES_URL="postgres://postgres.pxoppumamoveajmboczt:IibxWp51iWHIimEY@aws-0-us-east-1.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x&pgbouncer=true"
-POSTGRES_URL_NON_POOLING="postgres://postgres.pxoppumamoveajmboczt:IibxWp51iWHIimEY@aws-0-us-east-1.pooler.supabase.com:5432/postgres?sslmode=require"
-POSTGRES_USER="postgres"
-SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4b3BwdW1hbW92ZWFqbWJvY3p0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM4MDcyMTUsImV4cCI6MjA1OTM4MzIxNX0.vFBRySS_lljwy2EADU2kIALAZjasiubwHOmPspF7CA8"
-SUPABASE_JWT_SECRET="h12qGiXy/aFoA9TlmMfT7G95gfPetyZ9kX9LXIP7mqbwcCxw0gcJhLsXcco28/2LdpwDB9ptL/dG6QOOKEOOrw=="
-SUPABASE_SERVICE_ROLE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4b3BwdW1hbW92ZWFqbWJvY3p0Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MzgwNzIxNSwiZXhwIjoyMDU5MzgzMjE1fQ.3wm_FFr4sxfwquhEecssTPP6585Yp7BlRc2mkjpf0QI"
-SUPABASE_URL="https://pxoppumamoveajmboczt.supabase.co"
+```
+DATABASE_URL="postgresql://user:password@localhost:5432/mydb?schema=public"
 
-NEXTAUTH_SECRET=your-secret-here  # Generate a random string (e.g., openssl rand -base64 32)
+NEXTAUTH_SECRET=secret
 NEXTAUTH_URL=http://localhost:3000
 
-3. Start Next.js using npm run dev, and check http://localhost:3000 (and the console) to ensure that the new landing page displays correctly.
+POSTGRES_DATABASE="verceldb"
+POSTGRES_HOST="***"
+POSTGRES_PASSWORD="***"
+POSTGRES_PRISMA_URL="postgres://default:***@***/verceldb?pgbouncer=true&connect_timeout=15&sslmode=require"
+POSTGRES_URL="postgres://default:***@***/verceldb?sslmode=require"
+POSTGRES_URL_NON_POOLING="postgres://default:***@***/verceldb?sslmode=require"
+POSTGRES_URL_NO_SSL="postgres://default:***@***/verceldb"
+POSTGRES_USER="default"
+```
+
+4. Edit the .env file to set the DATABASE_URL to postgresql://<username>:<password>@localhost:5432/digits?schema=public
+5. Then run npx prisma migrate dev and npx prisma db seed to seed the database.
+6. Start Next.js using npm run dev, and check http://localhost:3000 (and the console) to ensure that the new landing page displays correctly.
 
 ## Team Contract
 [View our Team Contract](https://docs.google.com/document/d/1re1sDmqgrhCbOyjak1mA5vgmcGx4IPJbKRek7SYEZfA/edit?tab=t.0)
