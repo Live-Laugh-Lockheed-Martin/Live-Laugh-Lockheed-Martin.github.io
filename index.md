@@ -156,6 +156,8 @@ POSTGRES_USER="default"
 Our app is deployed and live on Vercel:  
 [https://manoa-munchies-nextjs.vercel.app/](https://manoa-munchies-nextjs.vercel.app/)
 
+[Review our Code!](https://github.com/eibanezUH/Manoa-Munchies-Nextjs)
+
 ## Milestone 1 (M1) Project Page
 [View M1 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2)
 
