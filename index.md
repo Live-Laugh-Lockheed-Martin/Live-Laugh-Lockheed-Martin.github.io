@@ -67,11 +67,11 @@ The app will provide students with real-time access to menu items across all cam
 
 #### Sign In
 <p>The Sign In page allows registered users to access their accounts by entering their login credentials.</p>
-<img src="images/m3/homepage.png" alt="Sign In page" width="800" height="450" />
+<img src="images/m3/signin.png" alt="Sign In page" width="800" height="450" />
 
 #### Sign Up
 <p>New users can create an account on the Sign Up page by providing their name, email, and password.</p>
-<img src="images/m3/homepage.png" alt="Sign Up page" width="800" height="450" />
+<img src="images/m3/signup.png" alt="Sign Up page" width="800" height="450" />
 
 ### Users
 #### 🍽️ Available Menu
