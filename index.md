@@ -60,16 +60,24 @@ The app will provide students with real-time access to menu items across all cam
 
 [View our GitHub Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2/views/1)
 
-### Implemented Features
+## User Guide
+#### Homepage
+Users will land on the homepage when they visit the Campus Cravings site. The homepage provides steps on how to access and use the website. Depending on what type of user they are logged in as (User, Vendor, or Admin), they will see a corresponding navigation menu bar. If they are not logged in to any account, the menu bar will not show any links.
+<img src="images/UpdateVendor.png" alt="Update Vendor Profile Page" width="800" height="500" />
+
+### Vendors
+#### 🛠️ Update Vendor Profile Page
+Vendors can update their business name, location, cuisine types (comma-separated), and operating hours for each day of the week. Time inputs make it easy to manage availability. This ensures accurate visibility for users browsing by vendor or filtering by open hours.
+<img src="images/UpdateVendor.png" alt="Update Vendor Profile Page" width="800" height="500" />
 
 #### ➕ Add Menu Item Page
 Vendors can add a new menu item by filling out details such as name, description, price, ingredients, category, and cuisine. Special days can also be tagged using checkboxes for each day of the week. This page ensures that all vendor entries are clear, searchable, and updated in real time.
 <img src="images/AddMenuItem.png" alt="Add Menu Item Form for Vendors" width="800" height="600" />
 
-#### 🛠️ Update Vendor Profile Page
-Vendors can update their business name, location, cuisine types (comma-separated), and operating hours for each day of the week. Time inputs make it easy to manage availability. This ensures accurate visibility for users browsing by vendor or filtering by open hours.
-<img src="images/UpdateVendor.png" alt="Update Vendor Profile Page" width="800" height="500" />
+#### Edit Menu Items Page
+Vendors can edit existing menu items by changing the details listed on the page. The page comes preloaded with the menu item's current items. Clicking 'Submit' will save any changes to made. Clicking the 'Reset' button will reset any changes made to the item's preloaded details. Pressing 'Cancel' will take the user back to the vendor dashboard page.
 
+### Users
 #### 🍽️ Food Available Right Now Page
 This is the user-facing menu discovery page. It lists all active food items across vendors and includes a live search bar where users can search by name, cuisine, ingredient, or vendor name. Each card shows description and ingredients if available.
 <img src="images/FoodAvailable.png" alt="Food Available Page with Menu Items Displayed" width="800" height="500" />
@@ -109,6 +117,34 @@ Users can edit their food preferences and aversions here. Each entry appears as 
 ## Testing Guidelines
 <img src="images/testing1.png" alt="Playwright test summary with 9 tests passed" width="700" height="200"/>
 <img src="images/testing2.png" alt="Playwright test report showing tests run across Chromium, Firefox, and WebKit" width="360" height="257"/>
+
+## Community Feedback
+The website was demonstrated to 5 students from UH Manoa and feedback was received via word-of-mouth. All interviewees reflected overall positive responses. One student stated that it was helpful to know the operating times of the food trucks in food truck row as they frequent the food trucks regularly. Another student said that the user dashboard and filter system was really clean and she could see herself using the app to pick out what she wanted to eat for the day. Another student expressed his desire to see support for vending machines added should the project be continued. He said that sometimes, vending machines are down or out of stock on certain food items and a way to know that before hand would be nice. Yet another student says that he sometimes stays afterschool late and expressed his interest to see other food places nearby campus added to the list of vendors, citing that it would be helpful to see what is there to eat in the evening.
+
+## Developer Guide
+This guide will show how to download, install, run, and modify the project. The project will not be downloaded with any 
+
+1. Clone the repo to your local machine, run npm install and then npm run dev to bring it up.
+2. Copy the following into your .env file and run npx prisma migrate dev, then npx prisma db seed to create the database and populate the tables.
+
+NEXT_PUBLIC_SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4b3BwdW1hbW92ZWFqbWJvY3p0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM4MDcyMTUsImV4cCI6MjA1OTM4MzIxNX0.vFBRySS_lljwy2EADU2kIALAZjasiubwHOmPspF7CA8"
+NEXT_PUBLIC_SUPABASE_URL="https://pxoppumamoveajmboczt.supabase.co"
+POSTGRES_DATABASE="postgres"
+POSTGRES_HOST="db.pxoppumamoveajmboczt.supabase.co"
+POSTGRES_PASSWORD="IibxWp51iWHIimEY"
+POSTGRES_PRISMA_URL="postgres://postgres.pxoppumamoveajmboczt:IibxWp51iWHIimEY@aws-0-us-east-1.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x&pgbouncer=true"
+POSTGRES_URL="postgres://postgres.pxoppumamoveajmboczt:IibxWp51iWHIimEY@aws-0-us-east-1.pooler.supabase.com:6543/postgres?sslmode=require&supa=base-pooler.x&pgbouncer=true"
+POSTGRES_URL_NON_POOLING="postgres://postgres.pxoppumamoveajmboczt:IibxWp51iWHIimEY@aws-0-us-east-1.pooler.supabase.com:5432/postgres?sslmode=require"
+POSTGRES_USER="postgres"
+SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4b3BwdW1hbW92ZWFqbWJvY3p0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM4MDcyMTUsImV4cCI6MjA1OTM4MzIxNX0.vFBRySS_lljwy2EADU2kIALAZjasiubwHOmPspF7CA8"
+SUPABASE_JWT_SECRET="h12qGiXy/aFoA9TlmMfT7G95gfPetyZ9kX9LXIP7mqbwcCxw0gcJhLsXcco28/2LdpwDB9ptL/dG6QOOKEOOrw=="
+SUPABASE_SERVICE_ROLE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InB4b3BwdW1hbW92ZWFqbWJvY3p0Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0MzgwNzIxNSwiZXhwIjoyMDU5MzgzMjE1fQ.3wm_FFr4sxfwquhEecssTPP6585Yp7BlRc2mkjpf0QI"
+SUPABASE_URL="https://pxoppumamoveajmboczt.supabase.co"
+
+NEXTAUTH_SECRET=your-secret-here  # Generate a random string (e.g., openssl rand -base64 32)
+NEXTAUTH_URL=http://localhost:3000
+
+3. Start Next.js using npm run dev, and check http://localhost:3000 (and the console) to ensure that the new landing page displays correctly.
 
 ## 📝 Team Contract
 [View our Team Contract](https://docs.google.com/document/d/1re1sDmqgrhCbOyjak1mA5vgmcGx4IPJbKRek7SYEZfA/edit?tab=t.0)
