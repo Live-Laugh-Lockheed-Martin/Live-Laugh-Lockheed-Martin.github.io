@@ -11,8 +11,9 @@ description: Innovating for a Better Tomorrow
 - [Welcome to Live-Laugh-Lockheed-Martin](#welcome-to-live-laugh-lockheed-martin)
 - [Our Vision](#our-vision)
 - [What We Do](#what-we-do)
-- [Manoa Munchies Overview](#manoa-munchies-overview)
-- [Manoa Munchies Status](#manoa-munchies-status)
+- [Overview](#overview)
+- [Status](#status)
+- [User Guide](#user-guide)
 - [Team Contract](#team-contract)
 - [Deployment](#deployment)
 - [Screenshots](#screenshots)
@@ -33,8 +34,8 @@ We envision a future where advanced technology and human ingenuity come together
 - **Cybersecurity**: Safeguarding digital assets with state-of-the-art security solutions.
 - **Website Development**: Designing future-forward digital solutions that connect people, power innovation, and enhance global security.
 
-## 🍱 Manoa Munchies Overview
-**Project Title**: Manoa Munchies
+## 🍱 Overview
+**Project Title**: Campus Cravings
 
 **Main Objective**:
 The core purpose of this project is to solve the challenge of navigating the wide variety of food options on the University of Hawai‘i at Mānoa campus. With multiple food vendors—such as Campus Center, food trucks, Manoa Gardens, Paradise Palms, and vending machines—students often struggle to find specific types of food or track when a favorite dish is available.
@@ -55,10 +56,13 @@ The app will provide students with real-time access to menu items across all cam
 - Admin Panel
 - Create a simple and quick form for vendors to input and update their menus.
 
-## 📊 Manoa Munchies Status
+## 📊 Status
+The project is finished.
 [View our GitHub Repository](https://github.com/eibanezUH/Manoa-Munchies-Nextjs)
-
-[View our GitHub Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/2/views/1)
+View our project boarrds:
+- [Milestone 1 (M1) Project Page](#milestone-1-m1-project-page)
+- [Milestone 2 (M2) Project Page](#milestone-2-m2-project-page)
+- [Milestone 3 (M3) Project Page](#milestone-3-m3-project-page)
 
 ## User Guide
 #### Homepage
