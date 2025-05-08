@@ -22,5 +22,8 @@ Our app is deployed and live on Vercel:
 ## 🛠️ Milestone 2 (M2) Project Page  
 [View M2 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/3/views/1)
 
+## 🛠️ Milestone 3 (M3) Project Page  
+[View M3 Project Board](https://github.com/orgs/Live-Laugh-Lockheed-Martin/projects/4/views/1)
+
 ## 📘 GitHub Hosting Guidelines  
 This page adheres to the [GitHub hosting guidelines](https://courses.ics.hawaii.edu/ics314s24/morea/project/milestone1-ghpages.html).
