@@ -63,55 +63,55 @@ The app will provide students with real-time access to menu items across all cam
 ## User Guide
 #### Homepage
 <p>Users will land on the homepage when they visit the Campus Cravings site. The homepage provides steps on how to access and use the website. Depending on what type of user they are logged in as (User, Vendor, or Admin), they will see a corresponding navigation menu bar. If they are not logged in to any account, the menu bar will not show any links.</p>
-<img src="images/UpdateVendor.png" alt="Update Vendor Profile Page" width="800" height="500" />
+<img src="images/m3/homepage.png" alt="Homepage" width="800" height="450" />
 
 #### Sign In
 <p>The Sign In page allows registered users to access their accounts by entering their login credentials.</p>
-<img src="images/signin.png" alt="Sign In" width="750" height="300"/>
+<img src="images/m3/homepage.png" alt="Sign In page" width="800" height="450" />
 
 #### Sign Up
 <p>New users can create an account on the Sign Up page by providing their name, email, and password.</p>
-<img src="images/signup.png" alt="Sign Up" width="850" height="400"/>
+<img src="images/m3/homepage.png" alt="Sign Up page" width="800" height="450" />
 
 ### Users
 #### 🍽️ Available Menu
 <p>The Available Menu page is the user-facing menu discovery page. It lists all active food items across vendors and includes a live search bar where users can search by name, cuisine, ingredient, or vendor name. Clicking the 'View Details' button reveals the item's description and ingredients. Additionally, clicking the name of the vendor brings up a pop-up that displays relevant information on the vendor's profile, including their email address, physical address, and operating hours. Clicking on the physical address link sends users to the location viewed on Google Maps.</p>
-<img src="images/FoodAvailable.png" alt="Food Available Page with Menu Items Displayed" width="800" height="500" />
-<img src="images/FoodAvailable.png" alt="Food Available Page with Menu Items Displayed" width="800" height="500" />
+<img src="images/m3/user-food-available.png" alt="User Available Menu page" width="800" height="450" />
+<img src="images/m3/user-food-available-show-details.png" alt="User Available Menu page showing details" width="800" height="450" />
 
 #### ⭐ Top Picks
 <p>The "Top Picks For You" page shows a curated list of menu items tailored to the user's food preferences and aversions or if the item is marked as a special. It includes search functionality and links to go back to the full list or update preferences.</p>
-<img src="images/TopPicks.png" alt="Top Picks Page with Personalized Menu Suggestions" width="800" height="500" />
+<img src="images/m3/user-top-picks.png" alt="User Top Picks page" width="800" height="450" />
 
 #### ⚙️ User Profile
 <p>Users can edit their food preferences and aversions here. Each entry appears as a tag that can be removed. They can add new tags (e.g., "Hawaiian", "Chinese") and save to update what appears on the Top Picks page.</p>
-<img src="images/Preferences.png" alt="User Profile Page for Food Preferences and Aversions" width="800" height="300" />
+<img src="images/m3/user-profile.png" alt="User Profile page" width="800" height="450" />
 
 ### Vendors
 #### Vendor Dashboard
 <p>Vendors can view their profile information on the card to the left and any menu items they have created in the table to the right. By clicking on a table row, they can expand the box to show the description, price, ingredients and special scedule status of the item. Additionally, they can click expand all or hide all to display/hide information.</p>
-<img src="images/UpdateVendor.png" alt="Update Vendor Profile Page" width="800" height="500" />
+<img src="images/m3/vendor-dashboard.png" alt="Vendor Dashboard page" width="800" height="450" />
 
 #### 🛠️ Update Vendor Profile
 <p>Vendors can update their business name, location, cuisine types (comma-separated), and operating hours for each day of the week. Time inputs make it easy to manage availability. This ensures accurate visibility for users browsing by vendor or filtering by open hours.</p>
-<img src="images/UpdateVendor.png" alt="Update Vendor Profile Page" width="800" height="500" />
+<img src="images/m3/vendor-update-profile.png" alt="Update Vendor Profile page" width="800" height="450" />
 
 #### ➕ Add Menu Item
 <p>Vendors can add a new menu item by filling out details such as name, description, price, ingredients, category, and cuisine. Special days can also be tagged using checkboxes for each day of the week. This page ensures that all vendor entries are clear, searchable, and updated in real time.</p>
-<img src="images/AddMenuItem.png" alt="Add Menu Item Form for Vendors" width="800" height="600" />
+<img src="images/m3/vendor-add-menu-items.png" alt="Add Menu Item page" width="800" height="450" />
 
 #### Edit Menu Items
 <p>Vendors can edit existing menu items by changing the details listed on the page. The page comes preloaded with the menu item's current items. Clicking 'Submit' will save any changes to made. Clicking the 'Reset' button will reset any changes made to the item's preloaded details. Pressing 'Cancel' will take the user back to the vendor dashboard page.</p>
-<img src="images/AddMenuItem.png" alt="Add Menu Item Form for Vendors" width="800" height="600" />
+<img src="images/m3/vendor-edit-menu-items.png" alt="Edit Menu Item page" width="800" height="450" />
 
 ### Admin
 #### Admin Dashboard
 <p>The Admin Dashboard page provides admin users with the ability to view all registered users, their id number in the database, and their roles, and the ability to update any existing user to the role of Vendor by clicking the 'Add Vendor' button.</p>
-<img src="images/adminDash.png" alt="Admin Dashboard" width="850" height="400"/>
+<img src="images/m3/admin-dashboard.png" alt="Admin Dashboard page" width="800" height="450" />
 
 #### Add Vendors
-<p>The Add Vendor page provides admin with the ability to update any existing user to the role of Vendor. When doing so, the admin will fill out the vendors's name and optionally their phone number and address. </p>
-<img src="images/landing page.png" alt="Landing Page" width="750" height="400"/>
+<p>The Add Vendor page provides admin with the ability to update any existing user to the role of Vendor. When doing so, the admin will fill out the vendors's name and optionally their phone number and address.</p>
+<img src="images/m3/admin-add-vendor.png" alt="Admin Add Vendor page" width="800" height="450" />
 
 ## Testing Guidelines
 <img src="images/testing1.png" alt="Playwright test summary with 9 tests passed" width="700" height="200"/>
